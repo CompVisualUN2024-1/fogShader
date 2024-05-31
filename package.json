@@ -1,0 +1,14 @@
+{
+  "name": "fog_shader",
+  "version": "1.0.0",
+  "description": "fog_shader_assignment",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Herrera",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.9.4"
+  }
+}
